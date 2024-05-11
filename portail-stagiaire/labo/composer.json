@@ -1,0 +1,13 @@
+{
+    "name": "frederic/alo",
+    "description": "microservice",
+    "authors": [
+        {
+            "name": "frederic",
+            "email": "fredandrinantenaina@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12"
+    }
+}
